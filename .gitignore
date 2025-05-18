@@ -1,0 +1,10 @@
+.venv
+__pycache__
+*.pyc
+*.ipynb
+*.csv
+*.json
+*.pkl
+movies.txt
+evaluation_results.csv
+task/
